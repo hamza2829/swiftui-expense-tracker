@@ -1,0 +1,10 @@
+[
+  { "id": 1, "title": "Groceries", "amount": 54.20, "category": "food", "date": "2026-10-20T12:00:00Z" },
+  { "id": 2, "title": "Bus ticket", "amount": 2.80, "category": "transport", "date": "2026-10-19T12:00:00Z" },
+  { "id": 3, "title": "Electricity bill", "amount": 75.00, "category": "bills", "date": "2026-10-15T12:00:00Z" },
+  { "id": 4, "title": "Cinema", "amount": 12.50, "category": "entertainment", "date": "2026-10-12T12:00:00Z" },
+  { "id": 5, "title": "Running shoes", "amount": 89.99, "category": "shopping", "date": "2026-10-10T12:00:00Z" },
+  { "id": 6, "title": "Pizza night", "amount": 23.40, "category": "food", "date": "2026-10-08T12:00:00Z" },
+  { "id": 7, "title": "Train to Berlin", "amount": 39.90, "category": "transport", "date": "2026-10-05T12:00:00Z" },
+  { "id": 8, "title": "Phone contract", "amount": 19.99, "category": "bills", "date": "2026-10-01T12:00:00Z" }
+]
