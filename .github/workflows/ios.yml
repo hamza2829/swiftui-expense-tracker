@@ -81,8 +81,3 @@ jobs:
           name: screenshot
           path: screenshots/expense-tracker.png
 
-      - name: TEMP print small screenshot as base64
-        if: always()
-        run: |
-          sips -Z 700 -s format jpeg -s formatOptions 60 screenshots/expense-tracker.png --out small.jpg
-          echo "BEGIN_SHOT"; base64 -b 100 -i small.jpg; echo "END_SHOT"

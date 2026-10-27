@@ -9,7 +9,9 @@ A small iOS expense tracker written in **Swift and SwiftUI** (iOS 17, MVVM, no t
 > - **The app was built and tested only in GitHub Actions**, on a macOS runner with an iPhone simulator.
 >   The screenshot below was taken by that CI job.
 
-![Screenshot of the app taken in CI](docs/screenshot.png)
+<img src="docs/screenshot.jpg" alt="Screenshot of the app taken in CI" width="320">
+
+*Screenshot taken by the CI job (iPhone simulator, data loaded from the mock server). The full-size PNG is in the `screenshot` artifact of each workflow run.*
 
 ## What the app does
 
